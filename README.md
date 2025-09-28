@@ -11,10 +11,7 @@ This project replicates the core features of Udemy, allowing users to browse cou
 - Responsive UI for all devices
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (React/Next.js if used)  
-- **Backend:** Node.js / Express / Java / Spring Boot (based on your stack)  
-- **Database:** MongoDB / MySQL / PostgreSQL  
-- **Authentication:** JWT / OAuth  
+- **Frontend:** HTML, CSS, 
 
 ## 📌 Future Improvements
 - Add ratings & reviews for courses  
